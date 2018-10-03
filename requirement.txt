@@ -1,0 +1,5 @@
+Flask
+pylint
+autopep8
+qrcode==6.0
+Pillow
